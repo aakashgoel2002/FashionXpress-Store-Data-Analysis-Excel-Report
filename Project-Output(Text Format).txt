@@ -1,0 +1,22 @@
+Key Findings of the Project:
+- Highest sales are in the month of March.
+- Maharashtra(2.99 M), Karnatka(2.65 M), Uttar Pradesh(2.10 M) are the top 3 states in terms of sales.
+- Adult Women are accountable for most number of Orders ~34.98%
+- Highest used order channel is Amazon(35%) followed by Myntra(23%), Flipkart(22%) and others.
+- The Delivery rate of Orders is 92% which is considered as a good number.
+
+
+Key Recommendations:
+- The store can roll-out sales or discount vouchers on Amazon, as it has got the highest number of orders.
+- While doing Digital Marketing the store can target Adult women in maharashtra the most as they are most open to order.
+- The store should have extra/enough stock during the months March and Februray as they incur in the most amount of sales.
+
+
+Tools/ Skills used in the Project:
+- Excel
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Data Analyzing
+- Data Visualization
+
